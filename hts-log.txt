@@ -1,0 +1,88 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Sep 2021 22:10:44 at https://pollyannaconsultancyservices.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pollyannaconsultancyservices.com/ -O1 "G:\My Web Sites\pcs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:12:06	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/Trident/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.8.4)
+22:12:06	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=84
+22:12:06	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=84 to https://pollyannaconsultancyservices.com/about-us/
+22:12:07	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=1359
+22:12:07	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=1359 to https://pollyannaconsultancyservices.com/our-services/
+22:12:07	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=928
+22:12:07	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=928 to https://pollyannaconsultancyservices.com/training-services/
+22:12:07	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=936
+22:12:07	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=936 to https://pollyannaconsultancyservices.com/placement-services/
+22:12:12	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=385
+22:12:12	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=385 to https://pollyannaconsultancyservices.com/educational-services/
+22:12:47	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=1041
+22:12:47	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=1041 to https://pollyannaconsultancyservices.com/business-with-us/
+22:12:48	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=727
+22:12:48	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=727 to https://pollyannaconsultancyservices.com/contact-us/
+22:12:48	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=1667
+22:12:48	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=1667 to https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/
+22:12:58	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=1943
+22:12:58	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=1943 to https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/donate-food-to-families-struggling-with-hunger-in-covids-second-wave/
+22:12:58	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=1940
+22:12:58	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=1940 to https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/save-critical-patients-from-fighting-corona-at-home/
+22:12:58	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=1833
+22:12:58	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=1833 to https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/help-patients-breathe-as-they-battle-covid/
+22:12:58	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=910
+22:12:58	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=910 to https://pollyannaconsultancyservices.com/registration/
+22:13:03	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/Edge/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+22:13:03	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/Gecko/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+22:13:03	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/Firefox/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+22:13:03	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/Version/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+22:13:03	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/version/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+22:13:03	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/-negative.svg (from https://pollyannaconsultancyservices.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.2)
+22:13:03	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/OPR/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.2)
+22:13:03	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=450
+22:13:03	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=450 to https://pollyannaconsultancyservices.com/educational-services/bachelors-in-computer-application/
+22:13:03	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=447
+22:13:03	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=447 to https://pollyannaconsultancyservices.com/educational-services/b-tech/
+22:13:03	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=599
+22:13:03	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=599 to https://pollyannaconsultancyservices.com/educational-services/diploma/
+22:13:03	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=610
+22:13:03	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=610 to https://pollyannaconsultancyservices.com/educational-services/b-architecture/
+22:13:03	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=611
+22:13:03	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=611 to https://pollyannaconsultancyservices.com/educational-services/m-architecture/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=607
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=607 to https://pollyannaconsultancyservices.com/educational-services/commerce-banking-u-g/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=681
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=681 to https://pollyannaconsultancyservices.com/educational-services/commerce-banking-p-g/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=734
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=734 to https://pollyannaconsultancyservices.com/educational-services/bachelors-in-managment/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=500
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=500 to https://pollyannaconsultancyservices.com/educational-services/masters-in-managment/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=493
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=493 to https://pollyannaconsultancyservices.com/educational-services/law/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=555
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=555 to https://pollyannaconsultancyservices.com/educational-services/medical/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=776
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=776 to https://pollyannaconsultancyservices.com/paramedical/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=560
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=560 to https://pollyannaconsultancyservices.com/educational-services/pharmacy/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=716
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=716 to https://pollyannaconsultancyservices.com/educational-services/d-pharmacy/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=619
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=619 to https://pollyannaconsultancyservices.com/educational-services/nursing/
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/?p=722
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/?p=722 to https://pollyannaconsultancyservices.com/educational-services/dental/
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/$&/ (from https://pollyannaconsultancyservices.com/wp-includes/js/dist/vendor/react.min.js?ver=16.13.1)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/moment-timezone-utils.js must be loaded after moment-timezone.js (from https://pollyannaconsultancyservices.com/wp-includes/js/dist/date.min.js?ver=061439ac4325ef057b8f9c142c82a823)
+22:13:04	Warning: 	Moved Permanently for https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/
+22:13:04	Warning: 	File has moved from https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/ to https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/Moment%20Timezone%20requires%20Moment.js.%20See%20https:/momentjs.com/timezone/docs/
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/Koq/ (from https://pollyannaconsultancyservices.com/wp-includes/js/dist/components.min.js?ver=413e179f8a99bd28091ba5cc6f72c9f3)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/hZ2/ (from https://pollyannaconsultancyservices.com/wp-includes/js/dist/components.min.js?ver=413e179f8a99bd28091ba5cc6f72c9f3)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/z9I/ (from https://pollyannaconsultancyservices.com/wp-includes/js/dist/components.min.js?ver=413e179f8a99bd28091ba5cc6f72c9f3)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/pollyanna-covid-support-save-the-people/oXO/ (from https://pollyannaconsultancyservices.com/wp-includes/js/dist/components.min.js?ver=413e179f8a99bd28091ba5cc6f72c9f3)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/wp-content/plugins/caldera-forms/assets/build/css/minicolor-colors.png (from https://pollyannaconsultancyservices.com/wp-content/plugins/caldera-forms/assets/build/css/caldera-forms-front.min.css?ver=1.9.4)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/registration/credit-card.svg (from https://pollyannaconsultancyservices.com/wp-content/plugins/caldera-forms/assets/build/js/caldera-forms-front.min.js?ver=1.9.4)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/registration/this,b (from https://pollyannaconsultancyservices.com/wp-content/plugins/caldera-forms/assets/build/js/jquery-baldrick.min.js?ver=1.9.4)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/registration/Trident/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/caldera-forms/clients/render/build/index.min.js?ver=1.9.4)
+22:13:04	Error: 	"Not Found" (404) at link https://pollyannaconsultancyservices.com/registration/Edge/ (from https://pollyannaconsultancyservices.com/wp-content/plugins/caldera-forms/clients/render/build/index.min.js?ver=1.9.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 20 seconds : 431 links scanned, 382 files written (23492326 bytes overall) [13824331 bytes received at 98745 bytes/sec], 14974168 bytes transferred using HTTP compression in 279 files, ratio 24%, 22.6 requests per connection
+(19 errors, 58 warnings, 0 messages)
